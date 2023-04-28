@@ -1,4 +1,4 @@
-## The second landing page template for Navi
+# The second landing page template for Navi
 
 CREDITS:
 
